@@ -45,18 +45,16 @@ The baseline CLIP model demonstrates strong performance due to pretrained repres
 
 The ablation study indicates that uncertainty weighting contributes positively to the final accuracy, supporting the effectiveness of the proposed approach.
 
+
 ## Visual Results
 
 ### Enhanced Accuracy Comparison
-
 ![Enhanced Results](enhanced_clip_accuracy_comparison.png)
 
 ### Standard Accuracy Comparison
-
 ![Standard Results](clip_accuracy_comparison.png)
 
 ### Ablation Study
-
 ![Ablation Results](ablation_clip_accuracy_comparison.png)
 
 ## Implementation Details
